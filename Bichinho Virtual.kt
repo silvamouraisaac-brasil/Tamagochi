@@ -143,4 +143,4 @@ class BichinhoVirtual(val nome: String) {
         return false
     }
 }
-//A ideia foi transformar uma ideia do Gabriel e transformar ela em um Tamagochi real
+//A ideia foi transformar uma ideia do Gabriel em um Tamagochi real
